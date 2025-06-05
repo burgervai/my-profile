@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechGadgets E-commerce Website
 
 A responsive e-commerce website for tech gadgets built with HTML, CSS, and JavaScript (no backend required).
@@ -25,3 +26,6 @@ A responsive e-commerce website for tech gadgets built with HTML, CSS, and JavaS
 
 ## License
 MIT
+=======
+# my-profile
+>>>>>>> a115e956bc5de17a2392b7ba6649ee7b9dd760da
